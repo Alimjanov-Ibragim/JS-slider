@@ -1,5 +1,4 @@
-# JS-slider
-##Javascript - Easy slider
+# JS-Easy slider
 
 ![Screenshot](screenshot.png)
 
